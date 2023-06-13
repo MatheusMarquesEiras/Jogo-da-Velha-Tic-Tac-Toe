@@ -1,6 +1,6 @@
 # Jogo-da-Velha-Tic-Tac-Toe
 
-## Portugues
+## Português
 <p>Este repositorio contem uma recriação do jogo da velha em tkinter</p>
 
 ## Inglês
